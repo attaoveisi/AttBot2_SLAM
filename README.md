@@ -3,7 +3,7 @@ This is a package for SLAM based on hector_slam package together with AttBot 2.0
 
 ![image](https://media.giphy.com/media/kEZZJknnuGEfCS7Ken/giphy.gif)
 
-the video can be found here: https://www.youtube.com/watch?v=bj1YTIgNeJ0
+the complete video can be found here: https://www.youtube.com/watch?v=bj1YTIgNeJ0
 
 ## AttBot2.0 
 This is a four wheeled robot, I have created equipped with an RPLIDAR, two IMUs, a GPS, odometry sensor, and ultrasound sensors.
